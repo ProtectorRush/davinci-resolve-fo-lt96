@@ -1,4 +1,4 @@
-
+Enhance DaVinci Resolve for macOS with DaVinci Resolve for macOS instant Transition: echo-removal & 4K-export, the #1 transition. Includes echo-removal and 4K-export for a
 
 
 
